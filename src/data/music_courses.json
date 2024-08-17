@@ -1,0 +1,104 @@
+{
+    "courses": [
+    {
+        "id": 1,
+        "title": "Guitar for Beginners",
+        "slug": "guitar-for-beginners",
+        "description": "Learn the basics of playing the guitar, from chords to strumming patterns, in this beginner-friendly course.",
+        "price": 39.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "https://example.com/images/guitar-beginners.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the fundamental concepts of music theory, including scales, chords, and rhythm.",
+        "price": 29.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": false,
+        "image": "https://example.com/images/music-theory.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Piano Masterclass",
+        "slug": "piano-masterclass",
+        "description": "Take your piano skills to the next level with this comprehensive course, covering advanced techniques and pieces.",
+        "price": 59.99,
+        "instructor": "Emma Williams",
+        "isFeatured": true,
+        "image": "https://example.com/images/piano-masterclass.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Songwriting 101",
+        "slug": "songwriting-101",
+        "description": "Learn the art of songwriting, from crafting lyrics to composing melodies, in this step-by-step guide.",
+        "price": 44.99,
+        "instructor": "Michael Brown",
+        "isFeatured": false,
+        "image": "https://example.com/images/songwriting.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Create your own electronic music using popular digital audio workstations and production techniques.",
+        "price": 69.99,
+        "instructor": "Sophia Martinez",
+        "isFeatured": true,
+        "image": "https://example.com/images/electronic-music.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Develop your improvisation skills and explore the world of jazz with this in-depth course.",
+        "price": 49.99,
+        "instructor": "James Davis",
+        "isFeatured": false,
+        "image": "https://example.com/images/jazz-improvisation.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Music Production with Logic Pro",
+        "slug": "music-production-logic-pro",
+        "description": "Master the powerful tools of Logic Pro to produce professional-quality music.",
+        "price": 74.99,
+        "instructor": "Olivia Wilson",
+        "isFeatured": true,
+        "image": "https://example.com/images/logic-pro.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Vocal Training for Singers",
+        "slug": "vocal-training-for-singers",
+        "description": "Improve your vocal technique and learn how to sing with confidence in this specialized course.",
+        "price": 34.99,
+        "instructor": "Charlotte Taylor",
+        "isFeatured": false,
+        "image": "https://example.com/images/vocal-training.jpg"
+    },
+    {
+        "id": 9,
+        "title": "DJing Essentials",
+        "slug": "djing-essentials",
+        "description": "Get started with DJing by learning how to mix tracks, beatmatch, and create your own DJ sets.",
+        "price": 39.99,
+        "instructor": "William Anderson",
+        "isFeatured": true,
+        "image": "https://example.com/images/djing-essentials.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Film Scoring Basics",
+        "slug": "film-scoring-basics",
+        "description": "Learn the fundamentals of composing music for films and create your own original scores.",
+        "price": 54.99,
+        "instructor": "Isabella Thomas",
+        "isFeatured": false,
+        "image": "https://example.com/images/film-scoring.jpg"
+    }
+]
+}
